@@ -2,11 +2,11 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{6276C7FE-7CB6-4213-A812-C090353848B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.Valovma.Sprint1.Task0.V0", "Tyuiu.Valovma.Sprint1.Task0.V0\Tyuiu.Valovma.Sprint1.Task0.V0.csproj", "{DF615455-D45B-432E-93D3-26C6AB6DBF04}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.Valovma.Sprint1.Task0.V11", "Tyuiu.Valovma.Sprint1.Task0.V11\Tyuiu.Valovma.Sprint1.Task0.V11.csproj", "{DF615455-D45B-432E-93D3-26C6AB6DBF04}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.Valovma.Sprint1.Task0.V0.Lib", "Tyuiu.Valovma.Sprint1.Task0.V0.Lib\Tyuiu.Valovma.Sprint1.Task0.V0.Lib.csproj", "{D7894FEC-1086-4AFB-B477-12F982F11B1E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.Valovma.Sprint1.Task0.V11.Lib", "Tyuiu.Valovma.Sprint1.Task0.V11.Lib\Tyuiu.Valovma.Sprint1.Task0.V11.Lib.csproj", "{D7894FEC-1086-4AFB-B477-12F982F11B1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.Valovma.Sprint1.Task0.V0.Test", "Tyuiu.Valovma.Sprint1.Task0.V0.Test\Tyuiu.Valovma.Sprint1.Task0.V0.Test.csproj", "{055EFCEC-6561-48E8-BC73-77D1394B53A8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.Valovma.Sprint1.Task0.V11.Test", "Tyuiu.Valovma.Sprint1.Task0.V11.Test\Tyuiu.Valovma.Sprint1.Task0.V11.Test.csproj", "{055EFCEC-6561-48E8-BC73-77D1394B53A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
